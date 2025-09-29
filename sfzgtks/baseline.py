@@ -24,7 +24,7 @@ def ask_llm(model, messages):
     example: call qwen api from Bailian (https://help.aliyun.com/zh/model-studio/getting-started/what-is-model-studio?spm=a2c4g.11174283.0.i3)
     """
     response = Generation.call(
-        api_key=os.getenv("DASHSCOPE_API_KEY", "sk-3094f578e6284ae4a7cf45eb722187c8"),
+        api_key="DASHSCOPE_API_KEY",
         model=model,
         messages=messages,
         enable_thinking=False,
