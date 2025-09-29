@@ -6,7 +6,7 @@
 
 ## 数据集介绍
 
-本次评测比赛提供[上一年的赛题][https://github.com/china-ai-law-challenge/CAIL2024/tree/main/sfzgtks]作为训练集，并扩大测试集规模。 以下是训练集中的一道试题样例：
+本次评测比赛提供[上一年的赛题](https://github.com/china-ai-law-challenge/CAIL2024/tree/main/sfzgtks)作为训练集，并扩大测试集规模。 以下是训练集中的一道试题样例：
 
 ```json
 {
